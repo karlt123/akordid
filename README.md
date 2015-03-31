@@ -1,0 +1,4 @@
+# akordid 
+
+kolmkõla leidmine
+
